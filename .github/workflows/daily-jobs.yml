@@ -1,0 +1,54 @@
+name: Daily Robotics Job Digest
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC = 07:00 CET (winter) / 08:00 CEST (summer).
+    # Adjust if you want it later. crontab.guru is your friend.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Lets you click "Run workflow" in the Actions tab to test on demand.
+    inputs:
+      lookback_days:
+        description: 'How many days back to look'
+        required: false
+        default: '2'
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit state.json back to the repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run job agent
+        env:
+          SMTP_HOST:   ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:   ${{ secrets.SMTP_PORT }}
+          SMTP_USER:   ${{ secrets.SMTP_USER }}
+          SMTP_PASS:   ${{ secrets.SMTP_PASS }}
+          TO_EMAIL:    ${{ secrets.TO_EMAIL }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '2' }}
+          SKIP_EMPTY_EMAIL: 'false'
+        run: python scraper/agent.py
+
+      - name: Commit state
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add state.json last_run.json || true
+          git diff --quiet --cached || git commit -m "chore: daily run $(date -u +%Y-%m-%d)"
+          git push

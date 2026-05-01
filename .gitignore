@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+
+# Don't ignore state.json — we WANT it committed by the workflow
+# so dedup persists across runs.
