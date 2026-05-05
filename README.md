@@ -140,4 +140,4 @@ After editing, push to GitHub. The next scheduled run uses the new config.
 
 ---
 
-Built for **Hemanth Mandava** · Robotics Engineer · Reutlingen, DE
+Built by **Hemanth Mandava** · Robotics Engineer · Reutlingen, DE
