@@ -1,5 +1,24 @@
 {
-  "run_at": "2026-05-04T08:16:24.037112+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-05-05T07:53:25.686714+00:00",
+  "new_jobs_count": 2,
+  "jobs": [
+    {
+      "title": "Trainee Intralogistik International - Robotics (m/w/d)",
+      "company": "Lidl Dienstleistung GmbH & Co. KG",
+      "location": "Neckarsulm, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13649-12098345AB-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-05",
+      "_id": "b706399ff98721ee"
+    },
+    {
+      "title": "Robotics Application Engineer (m/w/d) - Automatisierung / Robotik",
+      "company": "Unchained Robotics GmbH",
+      "location": "Paderborn, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-e23a7564_JB5138266-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-04",
+      "_id": "1c4f2c0c87e680c2"
+    }
+  ]
 }
