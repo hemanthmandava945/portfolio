@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-05-09T07:42:21.426917+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-05-10T07:56:07.458851+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "Produktmanager Dokumentenmanagement (w/m/d),Hamburg,Altenholz,Ros...",
+      "company": "Dataport Recruiting",
+      "location": "Hamburg, Hamburg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2251385-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-10",
+      "_id": "a89c219c21d465f9"
+    }
+  ]
 }
