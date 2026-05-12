@@ -1,5 +1,42 @@
 {
-  "run_at": "2026-05-11T08:57:57.998850+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-05-12T08:24:36.700016+00:00",
+  "new_jobs_count": 4,
+  "jobs": [
+    {
+      "title": "Internship in System Development Robotics / REF285656H",
+      "company": "Robert Bosch GmbH",
+      "location": "Abstatt, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF285656H-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-11",
+      "_id": "bde1b835d87319f7"
+    },
+    {
+      "title": "Robotics Engineer - KUKA / ABB / Fanuc (w/m/d)",
+      "company": "Brunel GmbH NL Bielefeld",
+      "location": "Bielefeld, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR-274938_609900LS-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-11",
+      "_id": "12c4f540c43f69c7"
+    },
+    {
+      "title": "Werkstudent/in (w/m/d) Klinisches Marketing \u2013 Image Guided Surgery & Robotics",
+      "company": "Siemens AG",
+      "location": "Forchheim, Oberfranken, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1572379-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-11",
+      "_id": "36bcefa6d34f0971"
+    },
+    {
+      "title": "(Senior) R&D Project Expert (w/m/d) Automated and Autonomous Driving / ATO",
+      "company": "Siemens AG",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1572353-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-11",
+      "_id": "bd0d91cf2cf26f23"
+    }
+  ]
 }
