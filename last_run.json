@@ -1,24 +1,5 @@
 {
-  "run_at": "2026-05-13T08:32:58.716037+00:00",
-  "new_jobs_count": 2,
-  "jobs": [
-    {
-      "title": "Robotics Engineer - KUKA / ABB / Fanuc (w/m/d)",
-      "company": "Brunel GmbH NL Bielefeld",
-      "location": "Bielefeld, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR-274938_610088LS-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-12",
-      "_id": "2eac439558e30aec"
-    },
-    {
-      "title": "SH_Werkstudent/in (w/m/d) Klinisches Marketing \u2013 Image Guided Surgery & Robotics",
-      "company": "Siemens AG",
-      "location": "Forchheim, Oberfranken, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1572379-1-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-11",
-      "_id": "3423a3f97f98efef"
-    }
-  ]
+  "run_at": "2026-05-14T08:27:03.489671+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
