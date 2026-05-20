@@ -1,33 +1,5 @@
 {
-  "run_at": "2026-05-19T08:58:04.025690+00:00",
-  "new_jobs_count": 3,
-  "jobs": [
-    {
-      "title": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
-      "company": "Helsing",
-      "location": "Munich - Berlin",
-      "url": "https://helsing.ai/jobs/4869481101?gh_jid=4869481101",
-      "source": "Greenhouse (helsing)",
-      "posted": "2026-05-18T11:26:57-04:00",
-      "_id": "7069e3dcc0c15024"
-    },
-    {
-      "title": "Field Service Engineer - Robotics & Automation (m/w/d)",
-      "company": "cellumation GmbH",
-      "location": "Bremen, Bremen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003086690-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-18",
-      "_id": "3e609be84f9eab93"
-    },
-    {
-      "title": "Intern Uncertainty Estimation for End-to-End Autonomous Driving",
-      "company": "Mercedes-Benz Group AG",
-      "location": "Sindelfingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1573891-1-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-18",
-      "_id": "953d203e2b97257b"
-    }
-  ]
+  "run_at": "2026-05-20T08:52:38.948467+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
