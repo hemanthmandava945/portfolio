@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-05-20T08:52:38.948467+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-05-21T08:54:58.563977+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "Robotics Engineer - KUKA / ABB / Fanuc (w/m/d)",
+      "company": "Brunel GmbH NL Bielefeld",
+      "location": "Bielefeld, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR-274938_611037LS-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-05-20",
+      "_id": "f250fb060a409a10"
+    }
+  ]
 }
