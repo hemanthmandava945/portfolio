@@ -1,33 +1,5 @@
 {
-  "run_at": "2026-05-22T08:48:19.292973+00:00",
-  "new_jobs_count": 3,
-  "jobs": [
-    {
-      "title": "(Senior) Humanoid Robotics Engineer -  AI Policies & Sim2Real (m/w/d)",
-      "company": "Fraunhofer-Gesellschaft e.V. Zentrale M\u00fcnchen",
-      "location": "Paderborn, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44193205-521-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-22",
-      "_id": "328e2fd3c53e6ee1"
-    },
-    {
-      "title": "Automation & Robotics Engineer Research & Development (m/f/d)",
-      "company": "Siemens Energy Global GmbH & Co. KG",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-461027901-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-21",
-      "_id": "c83b906a0d077fd7"
-    },
-    {
-      "title": "Technical Project Manager \u2013 Humanoid Robotics (m/f/d)",
-      "company": "Synapticon GmbH",
-      "location": "Sch\u00f6naich, W\u00fcrttemberg, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-50e90a1e_JB5151167-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-21",
-      "_id": "a31f4776a5411e95"
-    }
-  ]
+  "run_at": "2026-05-23T08:05:29.669931+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
