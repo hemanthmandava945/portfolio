@@ -1,24 +1,5 @@
 {
-  "run_at": "2026-05-30T08:16:00.388157+00:00",
-  "new_jobs_count": 2,
-  "jobs": [
-    {
-      "title": "Intern within Space Robotics System Development (d/f/m)",
-      "company": "Airbus Defence and Space GmbH",
-      "location": "Bremen, Bremen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-948692930-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-29",
-      "_id": "d9e3679a84e3c90e"
-    },
-    {
-      "title": "Working Student within Robotics and Automation (d/f/m)",
-      "company": "Airbus Defence and Space GmbH",
-      "location": "Bremen, Bremen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-948692203-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-05-29",
-      "_id": "6e59e65b72721026"
-    }
-  ]
+  "run_at": "2026-05-31T08:33:47.591999+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
