@@ -1,5 +1,24 @@
 {
-  "run_at": "2026-06-01T11:08:14.150516+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-06-02T10:02:04.897393+00:00",
+  "new_jobs_count": 2,
+  "jobs": [
+    {
+      "title": "Robot Programmer / Robotics Engineer (m/w/d)",
+      "company": "IMA Schelling Deutschland GmbH",
+      "location": "L\u00fcbbecke, Westfalen, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18875-2030603-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-02",
+      "_id": "3c4361e9db59f508"
+    },
+    {
+      "title": "Intern Robotics Engineer ROS (f/m/x)",
+      "company": "BMW AG",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1581781-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-01",
+      "_id": "15b1759383d8c256"
+    }
+  ]
 }
