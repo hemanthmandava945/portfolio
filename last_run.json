@@ -1,24 +1,42 @@
 {
-  "run_at": "2026-06-02T10:02:04.897393+00:00",
-  "new_jobs_count": 2,
+  "run_at": "2026-06-03T10:42:06.770134+00:00",
+  "new_jobs_count": 4,
   "jobs": [
     {
-      "title": "Robot Programmer / Robotics Engineer (m/w/d)",
-      "company": "IMA Schelling Deutschland GmbH",
-      "location": "L\u00fcbbecke, Westfalen, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18875-2030603-S",
+      "title": "Robotics Software Integration Engineer (m/f/d)",
+      "company": "MOTOR Ai GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003169397-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-02",
-      "_id": "3c4361e9db59f508"
+      "posted": "2026-06-03",
+      "_id": "f1b4adfc0206a750"
     },
     {
-      "title": "Intern Robotics Engineer ROS (f/m/x)",
+      "title": "AI Engineer (m/w/d) \u2013 Robotics & Intralogistics",
+      "company": "advastore SE",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-b3bd4187_JB5161037-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-02",
+      "_id": "10a7cc05cf6d5b1d"
+    },
+    {
+      "title": "Senior ML Engineer - Next-Generation Autonomous Driving (f/m/x)",
       "company": "BMW AG",
       "location": "M\u00fcnchen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1581781-1-S",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1580580-1-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-01",
-      "_id": "15b1759383d8c256"
+      "posted": "2026-06-02",
+      "_id": "7300138f4818058a"
+    },
+    {
+      "title": "Master Thesis Predictive Modeling and Control for Autonomous Driving (f/m/x)",
+      "company": "BMW AG",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1581770-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-02",
+      "_id": "dd7cb8bb0a4b1ec1"
     }
   ]
 }
