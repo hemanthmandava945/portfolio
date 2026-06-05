@@ -1,33 +1,5 @@
 {
-  "run_at": "2026-06-04T09:42:47.109961+00:00",
-  "new_jobs_count": 3,
-  "jobs": [
-    {
-      "title": "Robotics Engineer (m/f/d) Hardware & Electrical Integration",
-      "company": "Agile Robots SE",
-      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-cd262840_JB5162663-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-03",
-      "_id": "451e4f9237e15b91"
-    },
-    {
-      "title": "Robotics Software Engineer (m/f/d) Industrial Robotics & Automation",
-      "company": "Agile Robots SE",
-      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-e4ed86f2_JB5162665-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-03",
-      "_id": "a2edb626c56bf077"
-    },
-    {
-      "title": "Lagerarbeiter*in/ Tankreiniger*in (w/m/d) im Zwischenlager Sonderabfall, VUS Nord Betrieb Ros...",
-      "company": "Veolia Umweltservice Nord GmbH",
-      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2272331-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-03",
-      "_id": "ddfba10d499ea478"
-    }
-  ]
+  "run_at": "2026-06-05T09:29:22.897029+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
