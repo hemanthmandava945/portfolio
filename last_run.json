@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-06-07T08:44:11.452549+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-06-08T10:15:54.507063+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "RPA Engineer (m/w/d) - Robotics",
+      "company": "SIGNAL IDUNA",
+      "location": "Hamburg, Hamburg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4843177547-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-08",
+      "_id": "1b97181a62faabba"
+    }
+  ]
 }
