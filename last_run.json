@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-06-14T09:00:46.337813+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-06-15T11:44:13.460832+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "SH_Senior Robotics Engineer for Healthcare Applications (f/m/d)",
+      "company": "Siemens AG",
+      "location": "Erlangen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1586416-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-12",
+      "_id": "d75a09655366ed0a"
+    }
+  ]
 }
