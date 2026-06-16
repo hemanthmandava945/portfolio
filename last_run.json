@@ -1,15 +1,78 @@
 {
-  "run_at": "2026-06-15T11:44:13.460832+00:00",
-  "new_jobs_count": 1,
+  "run_at": "2026-06-16T10:52:50.515745+00:00",
+  "new_jobs_count": 8,
   "jobs": [
     {
-      "title": "SH_Senior Robotics Engineer for Healthcare Applications (f/m/d)",
-      "company": "Siemens AG",
-      "location": "Erlangen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1586416-1-S",
+      "title": "Entwicklungsingenieur Automatisierung, HMI und KI-Robotik (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.5885-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-12",
-      "_id": "d75a09655366ed0a"
+      "posted": "2026-06-16",
+      "_id": "b8d3f4c198253bac"
+    },
+    {
+      "title": "Entwicklungsingenieur Humanoide Robotik (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.5886-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-16",
+      "_id": "e05e3deacdc0043c"
+    },
+    {
+      "title": "Entwicklungsingenieur Robotik Testing und Validierung (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.5887-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-16",
+      "_id": "a2e8e6edac5c5a28"
+    },
+    {
+      "title": "Entwicklungsingenieur Robotik Testing und Validierung (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.5707-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-16",
+      "_id": "88006d2bd557b5dd"
+    },
+    {
+      "title": "Entwicklungsingenieur Humanoide Robotik (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.5708-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-16",
+      "_id": "ddcb414f168f8871"
+    },
+    {
+      "title": "Intern Robotics",
+      "company": "Mercedes-Benz Group AG",
+      "location": "Sindelfingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1587003-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-15",
+      "_id": "aa8390f930866714"
+    },
+    {
+      "title": "Mechanical Design Intern \u2013 Humanoid Robotics (m/f/d)",
+      "company": "Synapticon GmbH",
+      "location": "Sch\u00f6naich, W\u00fcrttemberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-613fe9e1_JB5171557-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-15",
+      "_id": "7937cea96b2c4ccd"
+    },
+    {
+      "title": "Senior MLOps Engineer - Autonomous Driving Platform (f/m/x)",
+      "company": "BMW AG",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1587515-1-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-15",
+      "_id": "a32f6e39f8023e94"
     }
   ]
 }
