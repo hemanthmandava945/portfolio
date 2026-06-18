@@ -1,33 +1,24 @@
 {
-  "run_at": "2026-06-17T10:25:00.466726+00:00",
-  "new_jobs_count": 3,
+  "run_at": "2026-06-18T10:03:44.956961+00:00",
+  "new_jobs_count": 2,
   "jobs": [
     {
-      "title": "Manager Robotics Strategy & Operations (m/w/d)",
-      "company": "Amprion GmbH",
-      "location": "Dortmund, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12706-44248953-616-S",
+      "title": "Humanoid Robotics Specialist (m/w/d)",
+      "company": "URT Utz Ratio Technik GmbH",
+      "location": "Korb, Remstal, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-134813-S",
       "source": "Arbeitsagentur",
       "posted": "2026-06-17",
-      "_id": "140b387ee10b2bfa"
+      "_id": "dd6b0bc63d2055d5"
     },
     {
-      "title": "Robotics AI Engineer (w/m/d)",
-      "company": "Daimler Truck AG",
-      "location": "Leinfelden-Echterdingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15707-1587150-1-S",
+      "title": "Simulation Engineer (m/w/d) - Robotics & SiL",
+      "company": "Neum\u00fcller Personalberatung Regina Neum\u00fcller e.K.",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003243022-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-16",
-      "_id": "27396b0e508503c8"
-    },
-    {
-      "title": "Head of Robotics & Drones (m/f/d)",
-      "company": "EJOT SE & Co. KG",
-      "location": "Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-44994-YF-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-16",
-      "_id": "ad8be5f777d57de3"
+      "posted": "2026-06-17",
+      "_id": "967376e836515e11"
     }
   ]
 }
