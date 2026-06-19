@@ -1,24 +1,5 @@
 {
-  "run_at": "2026-06-18T10:03:44.956961+00:00",
-  "new_jobs_count": 2,
-  "jobs": [
-    {
-      "title": "Humanoid Robotics Specialist (m/w/d)",
-      "company": "URT Utz Ratio Technik GmbH",
-      "location": "Korb, Remstal, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-134813-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-17",
-      "_id": "dd6b0bc63d2055d5"
-    },
-    {
-      "title": "Simulation Engineer (m/w/d) - Robotics & SiL",
-      "company": "Neum\u00fcller Personalberatung Regina Neum\u00fcller e.K.",
-      "location": "M\u00fcnchen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003243022-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-17",
-      "_id": "967376e836515e11"
-    }
-  ]
+  "run_at": "2026-06-19T10:11:21.304165+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
