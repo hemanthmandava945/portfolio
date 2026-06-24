@@ -1,33 +1,5 @@
 {
-  "run_at": "2026-06-23T08:57:28.441337+00:00",
-  "new_jobs_count": 3,
-  "jobs": [
-    {
-      "title": "RPA Engineer (m/w/d) - Robotics",
-      "company": "SIGNAL IDUNA",
-      "location": "Hamburg, Hamburg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4860901947-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-23",
-      "_id": "de8a25e9c073cfcf"
-    },
-    {
-      "title": "Robotics Engineer & Technical Project Lead (m/w/d)",
-      "company": "Radius Dynamics GmbH",
-      "location": "T\u00fcbingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-46426-YF-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-23",
-      "_id": "b13ad3626c4e753b"
-    },
-    {
-      "title": "Automation & Robotics Engineer (w/m/d)",
-      "company": "Siemens Energy Global GmbH & Co. KG",
-      "location": "M\u00fclheim an der Ruhr, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-465700447-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-22",
-      "_id": "e870396526ebf37b"
-    }
-  ]
+  "run_at": "2026-06-24T08:52:10.201509+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
