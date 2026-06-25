@@ -1,5 +1,33 @@
 {
-  "run_at": "2026-06-24T08:52:10.201509+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-06-25T08:46:24.618940+00:00",
+  "new_jobs_count": 3,
+  "jobs": [
+    {
+      "title": "Platform Manager Robotics (m/w/d)",
+      "company": "HARTING Applied Technologies GmbH",
+      "location": "Espelkamp, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-062885798-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-25",
+      "_id": "d024576b203bcdd4"
+    },
+    {
+      "title": "Lagerarbeiter*in/ Tankreiniger*in (w/m/d) im Zwischenlager Sonderabfall, VUS Nord Betrieb Ros...",
+      "company": "Veolia Umweltservice Nord GmbH",
+      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2284164-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-24",
+      "_id": "112271769a7d37d3"
+    },
+    {
+      "title": "Werkstudent im Bereich Software Testing f\u00fcr robotische Systeme (m/w/d)",
+      "company": "Rheinmetall AG",
+      "location": "Bremen, Bremen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634138-7878-9251-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-24",
+      "_id": "2e459bf4a2cb9927"
+    }
+  ]
 }
