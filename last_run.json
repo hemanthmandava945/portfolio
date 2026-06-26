@@ -1,33 +1,15 @@
 {
-  "run_at": "2026-06-25T08:46:24.618940+00:00",
-  "new_jobs_count": 3,
+  "run_at": "2026-06-26T08:49:11.321984+00:00",
+  "new_jobs_count": 1,
   "jobs": [
     {
-      "title": "Platform Manager Robotics (m/w/d)",
-      "company": "HARTING Applied Technologies GmbH",
-      "location": "Espelkamp, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-062885798-S",
+      "title": "Robotics Engineer & Technical Project Lead (m/w/d) Medizintechnik",
+      "company": "Radius Dynamics GmbH",
+      "location": "T\u00fcbingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-46426-YF-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-25",
-      "_id": "d024576b203bcdd4"
-    },
-    {
-      "title": "Lagerarbeiter*in/ Tankreiniger*in (w/m/d) im Zwischenlager Sonderabfall, VUS Nord Betrieb Ros...",
-      "company": "Veolia Umweltservice Nord GmbH",
-      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2284164-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-24",
-      "_id": "112271769a7d37d3"
-    },
-    {
-      "title": "Werkstudent im Bereich Software Testing f\u00fcr robotische Systeme (m/w/d)",
-      "company": "Rheinmetall AG",
-      "location": "Bremen, Bremen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634138-7878-9251-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-24",
-      "_id": "2e459bf4a2cb9927"
+      "posted": "2026-06-23",
+      "_id": "91dc3642d1b2e325"
     }
   ]
 }
