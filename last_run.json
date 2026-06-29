@@ -1,5 +1,33 @@
 {
-  "run_at": "2026-06-28T08:39:36.376305+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-06-29T10:20:15.180441+00:00",
+  "new_jobs_count": 3,
+  "jobs": [
+    {
+      "title": "Electrical Engineer (m/f/d) Robotics",
+      "company": "Da Vinci Engineering GmbH",
+      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-B0MG3VUSE2VI99O7-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-29",
+      "_id": "c95274f01fcb71e9"
+    },
+    {
+      "title": "Mechanical Design Engineer (m/f/d) Robotics",
+      "company": "Da Vinci Engineering GmbH",
+      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-SFHL4ZGSMZXIB4PL-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-29",
+      "_id": "41f562ec27bf448e"
+    },
+    {
+      "title": "Software Engineer \u2013 System Integration (m/f/d) Robotics",
+      "company": "Da Vinci Engineering GmbH",
+      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-27PE01EOOEECWUVQ-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-06-29",
+      "_id": "c1f84b9fb15e1000"
+    }
+  ]
 }
