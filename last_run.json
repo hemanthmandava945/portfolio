@@ -1,33 +1,33 @@
 {
-  "run_at": "2026-06-29T10:20:15.180441+00:00",
+  "run_at": "2026-06-30T08:55:08.978066+00:00",
   "new_jobs_count": 3,
   "jobs": [
     {
-      "title": "Electrical Engineer (m/f/d) Robotics",
-      "company": "Da Vinci Engineering GmbH",
-      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-B0MG3VUSE2VI99O7-S",
+      "title": "Wiss. Mitarbeit als Perception Engineer (all genders) - Radar Perception, Signalverarbeitung und KI",
+      "company": "Fraunhofer-Gesellschaft e.V. Zentrale M\u00fcnchen",
+      "location": "Wachtberg, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44278331-629-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-06-29",
-      "_id": "c95274f01fcb71e9"
+      "posted": "2026-06-30",
+      "_id": "8b737bb0dd039434"
     },
     {
-      "title": "Mechanical Design Engineer (m/f/d) Robotics",
-      "company": "Da Vinci Engineering GmbH",
-      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-SFHL4ZGSMZXIB4PL-S",
+      "title": "RPA Engineer (m/w/d) - Robotics",
+      "company": "SIGNAL IDUNA",
+      "location": "Hamburg, Hamburg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4868760484-S",
       "source": "Arbeitsagentur",
       "posted": "2026-06-29",
-      "_id": "41f562ec27bf448e"
+      "_id": "933b094fe7e103dc"
     },
     {
-      "title": "Software Engineer \u2013 System Integration (m/f/d) Robotics",
-      "company": "Da Vinci Engineering GmbH",
-      "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-27PE01EOOEECWUVQ-S",
+      "title": "Professur \u201eIntelligente Robotik\u201c (w/m/d), Bes. Gr. W2, Stellen-Nr. 819",
+      "company": "Technische Hochschule Mannheim Land BW",
+      "location": "Mannheim, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003300462-S",
       "source": "Arbeitsagentur",
       "posted": "2026-06-29",
-      "_id": "c1f84b9fb15e1000"
+      "_id": "fa9885ee65abe560"
     }
   ]
 }
