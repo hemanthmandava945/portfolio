@@ -1,33 +1,24 @@
 {
-  "run_at": "2026-06-30T08:55:08.978066+00:00",
-  "new_jobs_count": 3,
+  "run_at": "2026-07-01T09:27:44.384734+00:00",
+  "new_jobs_count": 2,
   "jobs": [
     {
-      "title": "Wiss. Mitarbeit als Perception Engineer (all genders) - Radar Perception, Signalverarbeitung und KI",
-      "company": "Fraunhofer-Gesellschaft e.V. Zentrale M\u00fcnchen",
-      "location": "Wachtberg, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44278331-629-S",
+      "title": "Werkstudent Robotics Operations & Technical Support (m/w/d)",
+      "company": "Pixel Robotics GmbH",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20091-16385455-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-01",
+      "_id": "9758ac1f4e71598e"
+    },
+    {
+      "title": "PhD Thesis: Self-Evolution for Autonomous Industrial Software",
+      "company": "Siemens AG",
+      "location": "Erlangen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1593750-1-S",
       "source": "Arbeitsagentur",
       "posted": "2026-06-30",
-      "_id": "8b737bb0dd039434"
-    },
-    {
-      "title": "RPA Engineer (m/w/d) - Robotics",
-      "company": "SIGNAL IDUNA",
-      "location": "Hamburg, Hamburg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4868760484-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-29",
-      "_id": "933b094fe7e103dc"
-    },
-    {
-      "title": "Professur \u201eIntelligente Robotik\u201c (w/m/d), Bes. Gr. W2, Stellen-Nr. 819",
-      "company": "Technische Hochschule Mannheim Land BW",
-      "location": "Mannheim, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003300462-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-29",
-      "_id": "fa9885ee65abe560"
+      "_id": "85414792a43f6eba"
     }
   ]
 }
