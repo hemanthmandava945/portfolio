@@ -1,24 +1,15 @@
 {
-  "run_at": "2026-07-01T09:27:44.384734+00:00",
-  "new_jobs_count": 2,
+  "run_at": "2026-07-02T08:40:50.704315+00:00",
+  "new_jobs_count": 1,
   "jobs": [
     {
-      "title": "Werkstudent Robotics Operations & Technical Support (m/w/d)",
-      "company": "Pixel Robotics GmbH",
-      "location": "M\u00fcnchen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20091-16385455-S",
+      "title": "Business Development - Head of Robotics & Drones (m/w/d)",
+      "company": "EJOT SE & Co. KG",
+      "location": "Bad Laasphe, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003314006-S",
       "source": "Arbeitsagentur",
       "posted": "2026-07-01",
-      "_id": "9758ac1f4e71598e"
-    },
-    {
-      "title": "PhD Thesis: Self-Evolution for Autonomous Industrial Software",
-      "company": "Siemens AG",
-      "location": "Erlangen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1593750-1-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-06-30",
-      "_id": "85414792a43f6eba"
+      "_id": "db68004c1a8cc324"
     }
   ]
 }
