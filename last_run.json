@@ -1,15 +1,33 @@
 {
-  "run_at": "2026-07-02T08:40:50.704315+00:00",
-  "new_jobs_count": 1,
+  "run_at": "2026-07-03T08:47:50.345054+00:00",
+  "new_jobs_count": 3,
   "jobs": [
     {
-      "title": "Business Development - Head of Robotics & Drones (m/w/d)",
-      "company": "EJOT SE & Co. KG",
-      "location": "Bad Laasphe, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003314006-S",
+      "title": "Softwareentwickler Robotics & Automatisierung (m/w/x)",
+      "company": "Arvato",
+      "location": "Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-955099715-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-01",
-      "_id": "db68004c1a8cc324"
+      "posted": "2026-07-03",
+      "_id": "2614b74076fb7c33"
+    },
+    {
+      "title": "Werkstudent Robotics und Digital Twin (m/w/d)",
+      "company": "Amprion GmbH",
+      "location": "Dortmund, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12706-44287045-72-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-03",
+      "_id": "bb5c616fb4e10b9b"
+    },
+    {
+      "title": "Lead Homologation Engineer (m/w/d)",
+      "company": "MOTOR Ai GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003325947-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-03",
+      "_id": "f48aa75f3c7a3e69"
     }
   ]
 }
