@@ -1,24 +1,5 @@
 {
-  "run_at": "2026-07-11T07:38:43.945895+00:00",
-  "new_jobs_count": 2,
-  "jobs": [
-    {
-      "title": "Softwareentwickler SPS/Robotik (m/w/d)",
-      "company": "fpt robotics",
-      "location": "Amtzell, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-js_rv_56_JB5194711-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-10",
-      "_id": "3e4b46498286d58f"
-    },
-    {
-      "title": "Senior Software Engineer (m/f/d) Perception & Autonomous Systems",
-      "company": "MOTOR Ai GmbH",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003369095-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-10",
-      "_id": "1eb335edd0bd1812"
-    }
-  ]
+  "run_at": "2026-07-12T07:57:49.288808+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
