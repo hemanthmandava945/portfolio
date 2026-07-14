@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-07-13T08:46:21.569143+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-07-14T07:45:39.184689+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "Data Quality Operator f\u00fcr Robotics PoC - befristet (m/w/d) Sinsheim oder Schwaigern",
+      "company": "Kaufland Dienstleistung GmbH & Co. KG",
+      "location": "Schwaigern, W\u00fcrttemberg, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-662b31f08249900c-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-14",
+      "_id": "0144939475a2fc73"
+    }
+  ]
 }
