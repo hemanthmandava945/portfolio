@@ -1,15 +1,33 @@
 {
-  "run_at": "2026-07-14T07:45:39.184689+00:00",
-  "new_jobs_count": 1,
+  "run_at": "2026-07-15T07:49:13.583890+00:00",
+  "new_jobs_count": 3,
   "jobs": [
     {
-      "title": "Data Quality Operator f\u00fcr Robotics PoC - befristet (m/w/d) Sinsheim oder Schwaigern",
-      "company": "Kaufland Dienstleistung GmbH & Co. KG",
-      "location": "Schwaigern, W\u00fcrttemberg, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-662b31f08249900c-S",
+      "title": "Field Application Engineer Robotics (m/w/d)",
+      "company": "Unchained Robotics GmbH",
+      "location": "Paderborn, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-0f97457b_JB5197159-S",
       "source": "Arbeitsagentur",
       "posted": "2026-07-14",
-      "_id": "0144939475a2fc73"
+      "_id": "b21bdac9118ef248"
+    },
+    {
+      "title": "Field Application Engineer Robotics (m/w/d) \u2013 Advanced Project Responsibility",
+      "company": "Unchained Robotics GmbH",
+      "location": "Paderborn, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-1c0b1f4e_JB5197232-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-14",
+      "_id": "c5a1c8aed2a40ec5"
+    },
+    {
+      "title": "Sales Manager (m/f/d) ADAS & Autonomous Driving",
+      "company": "b-plus Gruppe GmbH",
+      "location": "Deggendorf, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003383178-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-14",
+      "_id": "ed196de069ee2ca0"
     }
   ]
 }
