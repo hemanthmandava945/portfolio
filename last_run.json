@@ -1,33 +1,60 @@
 {
-  "run_at": "2026-07-15T07:49:13.583890+00:00",
-  "new_jobs_count": 3,
+  "run_at": "2026-07-16T07:54:02.813232+00:00",
+  "new_jobs_count": 6,
   "jobs": [
     {
-      "title": "Field Application Engineer Robotics (m/w/d)",
-      "company": "Unchained Robotics GmbH",
-      "location": "Paderborn, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-0f97457b_JB5197159-S",
+      "title": "Robotics CAE Engineer, Optimus",
+      "company": "Tesla Germany GmbH",
+      "location": "Pr\u00fcm, Rheinland-Pfalz, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026276906-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-14",
-      "_id": "b21bdac9118ef248"
+      "posted": "2026-07-16",
+      "_id": "9c7f1167de9209aa"
     },
     {
-      "title": "Field Application Engineer Robotics (m/w/d) \u2013 Advanced Project Responsibility",
-      "company": "Unchained Robotics GmbH",
-      "location": "Paderborn, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-1c0b1f4e_JB5197232-S",
+      "title": "Robotics Manufacturing Engineer, Line Design, Geartrain",
+      "company": "Tesla Germany GmbH",
+      "location": "Pr\u00fcm, Rheinland-Pfalz, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026276895-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-14",
-      "_id": "c5a1c8aed2a40ec5"
+      "posted": "2026-07-16",
+      "_id": "cb2dbeced3644526"
     },
     {
-      "title": "Sales Manager (m/f/d) ADAS & Autonomous Driving",
-      "company": "b-plus Gruppe GmbH",
-      "location": "Deggendorf, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003383178-S",
+      "title": "Robotics Geartrain Manufacturing Engineer, Optimus Actuators",
+      "company": "Tesla Germany GmbH",
+      "location": "Pr\u00fcm, Rheinland-Pfalz, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026276901-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-14",
-      "_id": "ed196de069ee2ca0"
+      "posted": "2026-07-16",
+      "_id": "f6a03945a38e8d22"
+    },
+    {
+      "title": "Robotics Controls Engineer, Geartrain Manufacturing, Optimus",
+      "company": "Tesla Germany GmbH",
+      "location": "Pr\u00fcm, Rheinland-Pfalz, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026276897-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-16",
+      "_id": "3d05203f31579f83"
+    },
+    {
+      "title": "Intern (m/f/d) Robotics System Integration",
+      "company": "Agile Robots SE",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-c9f36629_JB5197323-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-15",
+      "_id": "9b0fe9b1f6af2c8c"
+    },
+    {
+      "title": "Working Student (m/f/d) Humanoid Robotics & Teleoperation",
+      "company": "Agile Robots SE",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-acdec0d3_JB5197312-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-15",
+      "_id": "ea527b7b86bca727"
     }
   ]
 }
