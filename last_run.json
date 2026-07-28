@@ -1,24 +1,15 @@
 {
-  "run_at": "2026-07-27T09:27:51.532739+00:00",
-  "new_jobs_count": 2,
+  "run_at": "2026-07-28T08:12:48.824161+00:00",
+  "new_jobs_count": 1,
   "jobs": [
     {
-      "title": "Robotics Software Engineer Jobs m/w/d",
-      "company": "PerZukunft Arbeitsvermittlung GmbH&Co.KG",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12016-10004951887-S",
+      "title": "Robotics Manufacturing Engineer, Geartrain Assembly & Test, Optimus",
+      "company": "Tesla Germany GmbH",
+      "location": "Holzgerlingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278164-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-27",
-      "_id": "0f2f02ecc8ecd6a7"
-    },
-    {
-      "title": "Software Engineer Perception & Autonome Navigation (m/w/d) \u2013 Robotik f\u00fcr den Au\u00dfeneinsatz",
-      "company": "SunBrush mobil GmbH",
-      "location": "Lachen bei Memmingen, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003446075-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-27",
-      "_id": "2c32f9677fd62628"
+      "posted": "2026-07-28",
+      "_id": "06f0b552b437c535"
     }
   ]
 }
