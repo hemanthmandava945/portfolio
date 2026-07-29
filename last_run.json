@@ -1,15 +1,24 @@
 {
-  "run_at": "2026-07-28T08:12:48.824161+00:00",
-  "new_jobs_count": 1,
+  "run_at": "2026-07-29T08:18:09.711097+00:00",
+  "new_jobs_count": 2,
   "jobs": [
     {
-      "title": "Robotics Manufacturing Engineer, Geartrain Assembly & Test, Optimus",
+      "title": "Robotics Manufacturing Engineer, Geartrain Manufacturing Equipment, Optimus",
       "company": "Tesla Germany GmbH",
       "location": "Holzgerlingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278164-S",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278165-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-28",
-      "_id": "06f0b552b437c535"
+      "posted": "2026-07-29",
+      "_id": "8bbcfa3d6f778cae"
+    },
+    {
+      "title": "Robotics Electrical Engineer, Geartrain Manufacturing, Optimus",
+      "company": "Tesla Germany GmbH",
+      "location": "Holzgerlingen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278168-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-29",
+      "_id": "c57b9f149461a0b4"
     }
   ]
 }
