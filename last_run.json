@@ -1,24 +1,33 @@
 {
-  "run_at": "2026-07-29T08:18:09.711097+00:00",
-  "new_jobs_count": 2,
+  "run_at": "2026-07-30T08:05:53.972836+00:00",
+  "new_jobs_count": 3,
   "jobs": [
     {
-      "title": "Robotics Manufacturing Engineer, Geartrain Manufacturing Equipment, Optimus",
-      "company": "Tesla Germany GmbH",
-      "location": "Holzgerlingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278165-S",
+      "title": "Projektmanager/in - Automatisierung & Mobile Robotics (m/w/d)",
+      "company": "Carrybots GmbH",
+      "location": "Karlsruhe, Baden, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003462329-S",
       "source": "Arbeitsagentur",
       "posted": "2026-07-29",
-      "_id": "8bbcfa3d6f778cae"
+      "_id": "1ae9cd61aa335820"
     },
     {
-      "title": "Robotics Electrical Engineer, Geartrain Manufacturing, Optimus",
-      "company": "Tesla Germany GmbH",
-      "location": "Holzgerlingen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026278168-S",
+      "title": "Development Engineer - Laboratory Automation & Robotics",
+      "company": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "location": "Biberach an der Ri\u00df, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20177-44339439-727-S",
       "source": "Arbeitsagentur",
       "posted": "2026-07-29",
-      "_id": "c57b9f149461a0b4"
+      "_id": "718500a3fdaeb1a3"
+    },
+    {
+      "title": "Softwareentwickler/in Robotik \u2013 ROS (m/w/d)",
+      "company": "Carrybots GmbH",
+      "location": "Karlsruhe, Baden, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003462469-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-29",
+      "_id": "6fe01f21d64c1300"
     }
   ]
 }
