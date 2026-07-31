@@ -1,33 +1,42 @@
 {
-  "run_at": "2026-07-30T08:05:53.972836+00:00",
-  "new_jobs_count": 3,
+  "run_at": "2026-07-31T08:31:58.580915+00:00",
+  "new_jobs_count": 4,
   "jobs": [
     {
-      "title": "Projektmanager/in - Automatisierung & Mobile Robotics (m/w/d)",
-      "company": "Carrybots GmbH",
-      "location": "Karlsruhe, Baden, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003462329-S",
+      "title": "Development Engineer - Laboratory Automation & Robotics (m/w/d)",
+      "company": "Boehringer Ingelheim",
+      "location": "Biberach an der Ri\u00df, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-310681-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-29",
-      "_id": "1ae9cd61aa335820"
+      "posted": "2026-07-31",
+      "_id": "8eeb97f493c55f21"
     },
     {
       "title": "Development Engineer - Laboratory Automation & Robotics",
-      "company": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company": "Boehringer Ingelheim",
       "location": "Biberach an der Ri\u00df, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20177-44339439-727-S",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-284983-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-29",
-      "_id": "718500a3fdaeb1a3"
+      "posted": "2026-07-31",
+      "_id": "4a6310829a502ea8"
     },
     {
-      "title": "Softwareentwickler/in Robotik \u2013 ROS (m/w/d)",
-      "company": "Carrybots GmbH",
-      "location": "Karlsruhe, Baden, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003462469-S",
+      "title": "Leitender Psychologe (m/w/d) in Rosenheim, ROS",
+      "company": "Sch\u00f6n Klinik Roseneck SE & Co. KG",
+      "location": "Rosenheim, Oberbayern, Bayern, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2305036-S",
       "source": "Arbeitsagentur",
-      "posted": "2026-07-29",
-      "_id": "6fe01f21d64c1300"
+      "posted": "2026-07-30",
+      "_id": "2ca29a5eda2ee1c5"
+    },
+    {
+      "title": "Entwicklungsingenieur Robotik & Sensorik (m/w/d)",
+      "company": "Carl Stahl GmbH",
+      "location": "S\u00fc\u00dfen, Baden-W\u00fcrttemberg, Germany",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003469083-S",
+      "source": "Arbeitsagentur",
+      "posted": "2026-07-30",
+      "_id": "723537fb9015e790"
     }
   ]
 }
