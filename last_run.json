@@ -1,42 +1,5 @@
 {
-  "run_at": "2026-07-31T08:31:58.580915+00:00",
-  "new_jobs_count": 4,
-  "jobs": [
-    {
-      "title": "Development Engineer - Laboratory Automation & Robotics (m/w/d)",
-      "company": "Boehringer Ingelheim",
-      "location": "Biberach an der Ri\u00df, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-310681-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-31",
-      "_id": "8eeb97f493c55f21"
-    },
-    {
-      "title": "Development Engineer - Laboratory Automation & Robotics",
-      "company": "Boehringer Ingelheim",
-      "location": "Biberach an der Ri\u00df, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-284983-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-31",
-      "_id": "4a6310829a502ea8"
-    },
-    {
-      "title": "Leitender Psychologe (m/w/d) in Rosenheim, ROS",
-      "company": "Sch\u00f6n Klinik Roseneck SE & Co. KG",
-      "location": "Rosenheim, Oberbayern, Bayern, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2305036-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-30",
-      "_id": "2ca29a5eda2ee1c5"
-    },
-    {
-      "title": "Entwicklungsingenieur Robotik & Sensorik (m/w/d)",
-      "company": "Carl Stahl GmbH",
-      "location": "S\u00fc\u00dfen, Baden-W\u00fcrttemberg, Germany",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003469083-S",
-      "source": "Arbeitsagentur",
-      "posted": "2026-07-30",
-      "_id": "723537fb9015e790"
-    }
-  ]
+  "run_at": "2026-08-01T08:01:41.785502+00:00",
+  "new_jobs_count": 0,
+  "jobs": []
 }
