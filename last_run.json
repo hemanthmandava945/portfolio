@@ -1,5 +1,15 @@
 {
-  "run_at": "2026-11-12T14:12:12.931507+00:00",
-  "new_jobs_count": 0,
-  "jobs": []
+  "run_at": "2026-11-13T13:35:48.109031+00:00",
+  "new_jobs_count": 1,
+  "jobs": [
+    {
+      "title": "Early Careers - Aerospace and Aeronautical Engineering ",
+      "company": "Helsing",
+      "location": "London; Munich",
+      "url": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101",
+      "source": "Greenhouse (helsing)",
+      "posted": "2026-11-12T11:30:25-05:00",
+      "_id": "d3a87e630e6655e7"
+    }
+  ]
 }
